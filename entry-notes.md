@@ -27,7 +27,7 @@
 - Local anchor (kit init): 5842cda0c9f64b37a382ba0ae8493e7dcc002196 (drand round 34286501)
 - Local LICENSE commit: 7fe8381
 - GitHub entry-files commit: 0111a2699be31a7a0b91d1d2586b224b0bb0f1c7
-- Final GitHub HEAD (incl. this file): PLACEHOLDER_HEAD2
+- Final GitHub HEAD (incl. this file): a2680f18df6b0fc8ee888f4af96b0f8aac5b705c
 
 ## Status
 
