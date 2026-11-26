@@ -1,0 +1,5 @@
+BUILD one-liner make.fun bounty dari NOL (sesi baru, bounty sudah buka).
+
+Bounty: u-mang-the-printer-finally-answers-8fbf0907 — "The Printer Finally Answers" ($2, tutup 09:35 WIB 29 Nov 2026, sudah buka 09:32 WIB hari ini 26 Nov 2026). Work dir BARU: ~/workspace/makefun/u-mang-the-printer-finally-answers-8fbf0907/ (buat dirnya).
+
+Deskripsi bounty: tulis SATU baris teks (1-240 karakter) yang diucapkan printer kantor yang akhirnya menjawab semua orang yang menatapnya: paper jam, error code samar, bunyi gedebuk saat berhenti. Harus lucu, harus terdengar seperti suara mesin itu sendiri, comeback-nya mendarat dalam sekali baca. Juri house pairwise: humor dulu, lalu suara printer, lalu seberapa bersih comeback mendarat. GRATIS (entry_fee null, can_submit=true terverifikasi). Leaderboard BLIND (tidak ada top 10 yang bisa dibaca — catat itu). Ini bounty GitHub-backed: deliverables wajib repo_url + commit_sha + bundle + LICENSE + main.py + .makefun/owner.json.
